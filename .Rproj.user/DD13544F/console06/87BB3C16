@@ -1,71 +1,11 @@
-[0mMicrosoft Windows [Version 10.0.17134.165][0K[?25l
+[0m[0KMicrosoft Windows [Version 10.0.17134.167][0K[?25l
 (c) 2018 Microsoft Corporation. All rights reserved.[0K
 [0K
-Z:\R\general_workflows>[0K[?25hg[0Ki[0Kt[0K[28G[?25lZ:\R\general_workflows>git d[0K[?25hf[0K[?25lZ:\R\general_workflows>git d[0K[?25h[?25lZ:\R\general_workflows>git[0K[28G[?25h[?25lZ:\R\general_workflows>git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K]0;  - git  status[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up to date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add/rm <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/DD13544F/console06/87BB3C16[0m[0K
-        [0;31mmodified:   .Rproj.user/DD13544F/console06/INDEX001[0m[0K
-        [0;31mmodified:   .Rproj.user/DD13544F/sources/prop/866DD6A0[0m[0K
-        [0;31mmodified:   .Rproj.user/DD13544F/sources/prop/INDEX[0m[0K
-        [0;31mdeleted:    .Rproj.user/DD13544F/sources/s-B9CD58C5/5EFC00B2[0m[0K
-        [0;31mdeleted:    .Rproj.user/DD13544F/sources/s-B9CD58C5/5EFC00B2-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/DD13544F/sources/s-B9CD58C5/A7CC1638[0m[0K
-        [0;31mdeleted:    .Rproj.user/DD13544F/sources/s-B9CD58C5/A7CC1638-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/DD13544F/sources/s-B9CD58C5/DFFB949-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/DD13544F/sources/s-B9CD58C5/lock_file[0m[0K
-        [0;31mmodified:   .Rproj.user/shared/notebooks/paths[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rhistory[0m[0K
-        [0;31m.Rproj.user/DD13544F/pcs/[0m[0K
-        [0;31m.Rproj.user/DD13544F/rmd-outputs[0m[0K
-        [0;31m.Rproj.user/DD13544F/saved_source_markers[0m[0K
-        [0;31m.Rproj.user/DD13544F/sources/prop/655D3184[0m[0K
-        [0;31m.Rproj.user/DD13544F/sources/s-69AA9F60/[0m[0K[1A[9G[?25h]0; [?25l
-
-        [0;31m.Rproj.user/shared/notebooks/1953036-file_properties/[0m[0K
-        [0;31mmarkdowns/file_properties.Rmd[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K
-Z:\R\general_workflows>[0K[?25hg[0Ki[0Kt[0K[28G[?25lZ:\R\general_workflows>git d[0K[?25hf[0K[?25lZ:\R\general_workflows>git d[0K[?25h[?25lZ:\R\general_workflows>git[0K[28G[?25h[?25lZ:\R\general_workflows>git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0Ke[0K[36G[35G[?25lZ:\R\general_workflows>git commit[0K[?25h[35G[?25lZ:\R\general_workflows>git commit -[0K[?25ha[0K[38G[?25lZ:\R\general_workflows>git commit -a -0[0K[?25hm[0K[42G[?25lZ:\R\general_workflows>git commit -a -0m d[0K[?25hf[0K[?25lZ:\R\general_workflows>git commit -a -0m d[0K[?25h[?25lZ:\R\general_workflows>git commit -a -0m[0K[42G[?25h[41G[?25lZ:\R\general_workflows>git commit -a -0[0K[?25h[?25lZ:\R\general_workflows>git commit -a -[0K[?25hm[0K[41G[?25lZ:\R\general_workflows>git commit -a -m d[0K[?25hf[0K[?25lZ:\R\general_workflows>git commit -a -m d[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m[0K[41G[?25h[?25lZ:\R\general_workflows>git commit -a -m a[0K[?25hd[0Kd[0K[45G[44G[?25lZ:\R\general_workflows>git commit -a -m adde[0K[?25hd[0K[47G[?25lZ:\R\general_workflows>git commit -a -m added d[0K[?25hf[0K[?25lZ:\R\general_workflows>git commit -a -m added d[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m added[0K[47G[?25h[?25lZ:\R\general_workflows>git commit -a -m added w[0K[?25hi[0Kr[0K[?25lZ:\R\general_workflows>git commit -a -m added wi[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m added w[0K[?25hr[0K[?25lZ:\R\general_workflows>git commit -a -m added w[0K[?25ho[0Kr[0Kk[0Kf[0Kl[0Ko[0Ks[0K[?25lZ:\R\general_workflows>git commit -a -m added workflo[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m added workfl[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m added workf[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m added work[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m added wor[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m added wo[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m added w[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m added[0K[47G[?25h[46G[?25lZ:\R\general_workflows>git commit -a -m ad[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m a[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m[0K[41G[?25h[?25lZ:\R\general_workflows>git commit -a -m "[0K[?25ha[0Kd[0Kd[0Ke[0Kd[0K[48G[?25lZ:\R\general_workflows>git commit -a -m "added d[0K[?25hf[0K[?25lZ:\R\general_workflows>git commit -a -m "added d[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m "added[0K[48G[?25h[?25lZ:\R\general_workflows>git commit -a -m "added w[0K[?25ho[0Kr[0Kk[0Kd[0K[?25lZ:\R\general_workflows>git commit -a -m "added work[0K[?25hf[0Kl[0Ko[0Kw[0Ks[0K.[0K[?25lZ:\R\general_workflows>git commit -a -m "added workflows[0K[?25h"[0K[?25lZ:\R\general_workflows>git commit -a -m "added workflows[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m "added workflow[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m "added workflo[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m "added workfl[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m "added workf[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m "added work[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m "added wor[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m "added wo[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m "added w[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m "added[0K[48G[?25h[?25lZ:\R\general_workflows>git commit -a -m "added f[0K[?25hi[0Kl[0Ke[0K[53G[?25lZ:\R\general_workflows>git commit -a -m "added file d[0K[?25hf[0K[?25lZ:\R\general_workflows>git commit -a -m "added file d[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m "added file[0K[53G[?25h[?25lZ:\R\general_workflows>git commit -a -m "added file c[0K[?25hh[0Ke[0Kc[0Kk[0K[59G[?25lZ:\R\general_workflows>git commit -a -m "added file check w[0K[?25ho[0Kr[0Kk[0Kf[0Kl[0Ko[0Kw[0K"[0K]0;  - git  commit -a -m "added file check workflow"[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/DD13544F/sources/prop/866DD6A0.[0K[?25l
+Z:\R\general_workflows>[0K[?25hg[0Kit[0K[28G[?25lZ:\R\general_workflows>git c[0K[?25hom[0Kme[0K[34G[?25lZ:\R\general_workflows>git comm[0K[?25hi[0Kt[0K[35G[?25lZ:\R\general_workflows>git commit -[0K[?25ha[0K -[0K-[0Km[0K[42G[41G[?25lZ:\R\general_workflows>git commit -a --[0K[?25h[?25lZ:\R\general_workflows>git commit -a -[0K[?25h[?25lZ:\R\general_workflows>git commit -a[0K[38G[?25h[37G[38G[?25lZ:\R\general_workflows>git commit -a -[0K[?25hm[0K[41G[40G[41G[?25lZ:\R\general_workflows>git commit -a -m "[0K[?25hd[0Kf[0K[?25lZ:\R\general_workflows>git commit -a -m "d[0K[?25h[?25lZ:\R\general_workflows>git commit -a -m "[0K[?25ha[0Kd[0Kde[0Kd[0K[48G[?25lZ:\R\general_workflows>git commit -a -m "added i[0K[?25hn[0Ks[0Kta[0Kl[0Kl[0Ka[0Kt[0Ki[0Ko[0Kn[0K[61G[?25lZ:\R\general_workflows>git commit -a -m "added installation s[0K[?25he[0Kc[0Kt[0Ki[0Ko[0Kn[0K"[0K[?25l
+[0K[?25h]0;  - git  commit -a -m "added installation section"warning: LF will be replaced by CRLF in .Rhistory.[0K[?25l
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/DD13544F/sources/prop/INDEX.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25h]0; [master 8701264] added file check workflow[0K[?25l
- 11 files changed, 45 insertions(+), 120 deletions(-)[0K
- rewrite .Rproj.user/DD13544F/console06/87BB3C16 (93%)[0K
- delete mode 100644 .Rproj.user/DD13544F/sources/s-B9CD58C5/5EFC00B2[0K
- delete mode 100644 .Rproj.user/DD13544F/sources/s-B9CD58C5/5EFC00B2-contents[0K
- delete mode 100644 .Rproj.user/DD13544F/sources/s-B9CD58C5/A7CC1638[0K
- delete mode 100644 .Rproj.user/DD13544F/sources/s-B9CD58C5/A7CC1638-contents[0K
- delete mode 100644 .Rproj.user/DD13544F/sources/s-B9CD58C5/DFFB949-contents[0K
- delete mode 100644 .Rproj.user/DD13544F/sources/s-B9CD58C5/lock_file[0K
-[0K
-Z:\R\general_workflows>[0K[?25hg[0Ki[0Kt[0K[28G[?25lZ:\R\general_workflows>git d[0K[?25hf[0K[?25lZ:\R\general_workflows>git d[0K[?25h[?25lZ:\R\general_workflows>git[0K[28G[?25h[27G[?25lZ:\R\general_workflows>gi[0K[?25h[?25lZ:\R\general_workflows>g[0K[?25h[?25lZ:\R\general_workflows>[0K[?25hg[0Ki[0Kt[0K[28G[?25lZ:\R\general_workflows>git o[0K[?25hu[0Ks[0Kh[0K[?25lZ:\R\general_workflows>git ous[0K[?25h[?25lZ:\R\general_workflows>git ou[0K[?25h[?25lZ:\R\general_workflows>git o[0K[?25h[?25lZ:\R\general_workflows>git[0K[28G[?25h[?25lZ:\R\general_workflows>git p[0K[?25hu[0Ks[0Kh[0K[33G]0;  - git  push [?25l
-[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
-[0K[?25hUsername for 'https://github.com':[0K[36G[?25lUsername for 'https://github.com': l[0K[?25hr[0Kr[0Ku[0Kt[0Kio[0K[?25lUsername for 'https://github.com': lrruti[0K[?25h[?25lUsername for 'https://github.com': lrrut[0K[?25h[?25lUsername for 'https://github.com': lrru[0K[?25h[?25lUsername for 'https://github.com': lrr[0K[?25h[?25lUsername for 'https://github.com': lr[0K[?25h[?25lUsername for 'https://github.com': l[0K[?25h[?25lUsername for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': l[0K[?25he[0Ke[0Ku[0Kt[0Kj[0Ki[0Ke[0K[?25l
-[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
-[0K[?25hPassword for 'https://leeutjie@github.com':[0K[45G[?25l
-[0K[?25hEnumerating objects: 27, done.[0K[?25l
-Counting objects:  81% (22/27)[0K[1G[?25hCounting objects: 100% (27/27), done.[0K[?25l
-Delta compression using up to 8 threads.[0K
-Compressing objects:  91% (11/12)[0K[1G[?25hCompressing objects: 100% (12/12), done.[0K[?25l
-Writing objects: 100% (14/14), 2.11 KiB | 98.00 KiB/s, done.[0K
-Total 14 (delta 5), reused 0 (delta 0)[0K
-[0K[?25hremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[0K[?25l
-[0K[?25hTo https://github.com/leeutjie/general_workflows.git[0K[?25l
-   a09905e..8701264  master -> master[0K
+[0K[?25herror: open(".Rproj.user/DD13544F/console06/87BB3C16"): Permission denied[0K[?25l
+error: unable to index file .Rproj.user/DD13544F/console06/87BB3C16[0K
+fatal: updating files failed[0K
 [0K[?25h]0; [?25l
 Z:\R\general_workflows>[0K[?25h

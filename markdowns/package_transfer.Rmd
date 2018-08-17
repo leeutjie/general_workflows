@@ -9,14 +9,14 @@ This markdown is a workflow for grabbing a list of all the user-installed packag
 
 ```{r}
 # load packages
-library(rmsfuns)
+if(!require(devtools))
 
 load <- c("dplyr", "readr")
 load_pkg(load)
 ```
 
 
-Before the new R is installed, let's get the full list of user-isntalled packages and save this list somewhere:
+Before the new R is installed, let's get the full list of user-installed packages and save this list somewhere:
 ```{r}
 # could be improved for easier reading
 ip <- as.data.frame(installed.packages()[,c(1,3:4)])
@@ -25,11 +25,14 @@ rownames(ip) <- NULL
 ip <- ip[is.na(ip$Priority),1:2,drop=FALSE]
 print(ip, row.names=FALSE)
 
-write_csv(ip, "package_list.csv")
+write_csv(ip, "data/package_list.csv")
 ```
 
 
 ```{r}
+ip2 <- read.csv("data/package_list.csv")
+
+apply(X = data.frame(ip2$Package), MARGIN = 2, FUN = install.packages)
 
 ```
 
