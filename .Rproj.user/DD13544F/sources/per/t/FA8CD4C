@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531904198675.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3752699518",
+    "id" : "FA8CD4C",
+    "lastKnownWriteTime" : 1531904244,
+    "last_content_update" : 1531904244511,
+    "path" : "Z:/R/general_workflows/markdowns/file_properties.Rmd",
+    "project_path" : "markdowns/file_properties.Rmd",
+    "properties" : {
+        "cursorPosition" : "4,21",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

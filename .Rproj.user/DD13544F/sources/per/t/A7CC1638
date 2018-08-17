@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531823552912.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4056765736",
+    "id" : "A7CC1638",
+    "lastKnownWriteTime" : 1531839023,
+    "last_content_update" : 1531839022636,
+    "path" : "Z:/R/general_workflows/code/setup_code.R",
+    "project_path" : "code/setup_code.R",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
